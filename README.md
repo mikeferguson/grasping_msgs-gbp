@@ -1,3 +1,24 @@
+## grasping_msgs (jade) - 0.3.1-0
+
+The packages in the `grasping_msgs` repository were released into the `jade` distro by running `/usr/bin/bloom-release -r jade -t jade grasping_msgs` on `Wed, 06 May 2015 06:25:17 -0000`
+
+The `grasping_msgs` package was released.
+
+Version of package(s) in repository `grasping_msgs`:
+- upstream repository: git@github.com:mikeferguson/grasping_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.3.1-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.7`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.1`
+- vcstools version: `0.1.36`
+
+
 ## grasping_msgs (indigo) - 0.3.1-0
 
 The packages in the `grasping_msgs` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -t indigo -r indigo grasping_msgs` on `Sun, 02 Nov 2014 22:51:05 -0000`
