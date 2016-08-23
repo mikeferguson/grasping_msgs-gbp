@@ -1,0 +1,12 @@
+Source: ros-kinetic-grasping-msgs
+Section: misc
+Priority: extra
+Maintainer: Michael Ferguson <mfergs7@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-actionlib, ros-kinetic-catkin, ros-kinetic-geometry-msgs, ros-kinetic-message-generation, ros-kinetic-moveit-msgs, ros-kinetic-sensor-msgs, ros-kinetic-shape-msgs
+Homepage: http://ros.org/wiki/grasping_msgs
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-grasping-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-actionlib, ros-kinetic-geometry-msgs, ros-kinetic-message-runtime, ros-kinetic-moveit-msgs, ros-kinetic-sensor-msgs, ros-kinetic-shape-msgs
+Description: Messages for describing objects and how to grasp them.
