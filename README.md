@@ -1,3 +1,26 @@
+## grasping_msgs (lunar) - 0.3.1-0
+
+The packages in the `grasping_msgs` repository were released into the `lunar` distro by running `/usr/bin/bloom-release -r lunar -t lunar grasping_msgs` on `Tue, 22 May 2018 02:59:26 -0000`
+
+The `grasping_msgs` package was released.
+
+Version of package(s) in repository `grasping_msgs`:
+
+- upstream repository: git@github.com:mikeferguson/grasping_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.3.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.2`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## grasping_msgs (kinetic) - 0.3.1-0
 
 The packages in the `grasping_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic grasping_msgs` on `Tue, 23 Aug 2016 16:13:15 -0000`
