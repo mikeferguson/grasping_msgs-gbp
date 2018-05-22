@@ -1,0 +1,12 @@
+Source: ros-melodic-grasping-msgs
+Section: misc
+Priority: extra
+Maintainer: Michael Ferguson <mfergs7@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-actionlib, ros-melodic-catkin, ros-melodic-geometry-msgs, ros-melodic-message-generation, ros-melodic-moveit-msgs, ros-melodic-sensor-msgs, ros-melodic-shape-msgs
+Homepage: http://ros.org/wiki/grasping_msgs
+Standards-Version: 3.9.2
+
+Package: ros-melodic-grasping-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-actionlib, ros-melodic-geometry-msgs, ros-melodic-message-runtime, ros-melodic-moveit-msgs, ros-melodic-sensor-msgs, ros-melodic-shape-msgs
+Description: Messages for describing objects and how to grasp them.
