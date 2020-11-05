@@ -1,0 +1,12 @@
+Source: ros-noetic-grasping-msgs
+Section: misc
+Priority: optional
+Maintainer: Michael Ferguson <mfergs7@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-actionlib, ros-noetic-catkin, ros-noetic-geometry-msgs, ros-noetic-message-generation, ros-noetic-moveit-msgs, ros-noetic-sensor-msgs, ros-noetic-shape-msgs
+Homepage: http://ros.org/wiki/grasping_msgs
+Standards-Version: 3.9.2
+
+Package: ros-noetic-grasping-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-actionlib, ros-noetic-geometry-msgs, ros-noetic-message-runtime, ros-noetic-moveit-msgs, ros-noetic-sensor-msgs, ros-noetic-shape-msgs
+Description: Messages for describing objects and how to grasp them.
