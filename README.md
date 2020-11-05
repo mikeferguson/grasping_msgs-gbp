@@ -1,3 +1,26 @@
+## grasping_msgs (noetic) - 0.3.1-1
+
+The packages in the `grasping_msgs` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic grasping_msgs` on `Thu, 05 Nov 2020 13:39:09 -0000`
+
+The `grasping_msgs` package was released.
+
+Version of package(s) in repository `grasping_msgs`:
+
+- upstream repository: git@github.com:mikeferguson/grasping_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.3.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.0`
+- catkin_pkg version: `0.4.18`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.1`
+- vcstools version: `0.1.42`
+
+
 ## grasping_msgs (melodic) - 0.3.1-0
 
 The packages in the `grasping_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic grasping_msgs` on `Tue, 22 May 2018 03:37:31 -0000`
